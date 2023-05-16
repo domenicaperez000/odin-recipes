@@ -1,0 +1,46 @@
+body {
+    background-color: #63a969;
+    background-image: url(flower.png);
+    background-size: 25px;
+    background-blend-mode: soft-light;
+}
+.header {
+    background-color: #faf7ce;
+    background-image: url(flower.png);
+    background-blend-mode: color-burn;
+    background-size: 25px;
+    border: 3.5px solid #964165;
+    border-style: dotted;
+    border-radius: 10px;
+    margin: 20px 60px 0;
+    padding: 0 12px  0;
+    width: 100%;
+}
+h1 {
+    color: #cd8eac;
+    font-family: 'Garamond', 'serif';
+}
+.list {
+    background-image: url(flower.png);
+    background-blend-mode: color-burn;
+    background-size: 25px;
+    background-color: #faf7ce;
+    border: 4.5px solid #964165;
+    border-style: dotted;
+    border-radius: 10px;
+    margin: 20px 60px 0;
+    padding: 7px ;
+    width: 300px;
+    height: 300px;
+}
+ul {
+    list-style-image: url(./flowerre.png);
+
+  }
+li, a {
+    text-decoration: none;
+    font-family: 'Garamond', 'serif';
+    font-weight: bold;
+    color: #63a969;
+    
+}
